@@ -1,0 +1,10 @@
+What is the world's smallest country?,Monaco,Vatican City,Nauru,Tuval,2
+What are the first three books of The Old Testament?,Genesis, Exodus, Leviticus,Matthew,1
+How many sides does a dodecahedron have?,6,8,10,12,4
+What were the names of Henry VIII's six wives?,Catherine of Aragon, Anne Boleyn, Jane Seymour, Catherine Parr,1
+Banksy is most associated with which city?,Manchester,London,Bristol,Birmingham,3
+What nationality was Charlie Chaplin?,American,British,French,German,2
+Whhich ocean is under India?,Atlantic, Pacific, Indian, Arctic,3
+What is the king of the jungle?,Lion, Leopard, Rhino, Elephant,1
+Which chess piece can't move in a straight line?,King,Queen,Rook,Knight,4
+Which planet is closest to the Sun?,Mercury,Venus,Earth,Mars,1
